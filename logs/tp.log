@@ -1,0 +1,331 @@
+20:12:55.347 (INFO) Starting tickerplant...
+20:12:55.348 (INFO) Publishing 80 records for table crypto to 0 subscribers.
+20:12:58.135 (INFO) Process rdb at port 5020 attempting to connect to TP.
+20:12:58.135 (INFO) Process 5020 connected to TP at 8.
+20:13:10.349 (INFO) Publishing 1 records for table crypto to 1 subscribers.
+20:13:10.349 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:13:15.348 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:13:15.348 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:13:20.348 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:13:20.349 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:13:25.348 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:13:25.349 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:13:30.348 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:13:30.348 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:13:35.348 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:13:35.348 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:13:40.348 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:13:40.348 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:13:45.348 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:13:45.348 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:13:50.350 (INFO) Publishing 1 records for table crypto to 1 subscribers.
+20:13:50.350 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:13:54.965 (INFO) Starting tickerplant...
+20:13:54.966 (INFO) Publishing 117 records for table crypto to 0 subscribers.
+20:13:57.971 (INFO) Process rdb at port 5020 attempting to connect to TP.
+20:13:57.972 (INFO) Process 5020 connected to TP at 8.
+20:14:14.966 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:14:14.967 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:14:19.966 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:14:19.966 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:14:24.966 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:14:24.966 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:14:29.966 (INFO) Publishing 4 records for table crypto to 1 subscribers.
+20:14:29.966 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:14:36.138 (INFO) Starting tickerplant...
+20:14:36.138 (INFO) Publishing 136 records for table crypto to 0 subscribers.
+20:14:39.263 (INFO) Process rdb at port 5020 attempting to connect to TP.
+20:14:39.263 (INFO) Process 5020 connected to TP at 8.
+20:14:51.138 (INFO) Publishing 1 records for table crypto to 1 subscribers.
+20:14:51.139 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:14:56.138 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:14:56.138 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:15:01.139 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:15:01.139 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:15:06.139 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:15:06.139 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:15:11.139 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:15:11.139 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:15:16.139 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:15:16.139 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:15:21.139 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:15:21.139 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:15:26.138 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:15:26.138 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:15:31.139 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:15:31.139 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:15:36.139 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:15:36.139 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:15:45.753 (INFO) Starting tickerplant...
+20:15:45.754 (INFO) Publishing 182 records for table crypto to 0 subscribers.
+20:15:48.586 (INFO) Process rdb at port 5020 attempting to connect to TP.
+20:15:48.586 (INFO) Process 5020 connected to TP at 8.
+20:16:00.755 (INFO) Publishing 1 records for table crypto to 1 subscribers.
+20:16:00.755 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:16:05.754 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:16:05.754 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:16:10.755 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:16:10.755 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:16:51.264 (INFO) Starting tickerplant...
+20:16:51.265 (INFO) Publishing 193 records for table crypto to 0 subscribers.
+20:16:54.263 (INFO) Process rdb at port 5020 attempting to connect to TP.
+20:16:54.263 (INFO) Process 5020 connected to TP at 8.
+20:17:06.265 (INFO) Publishing 1 records for table crypto to 1 subscribers.
+20:17:06.265 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:17:11.265 (INFO) Publishing 4 records for table crypto to 1 subscribers.
+20:17:11.265 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:17:50.856 (INFO) Starting tickerplant...
+20:17:50.857 (INFO) Publishing 198 records for table crypto to 0 subscribers.
+20:17:51.873 (INFO) Process rdb at port 5020 attempting to connect to TP.
+20:17:51.874 (INFO) Process 5020 connected to TP at 8.
+20:17:55.857 (INFO) Publishing 1 records for table crypto to 1 subscribers.
+20:17:55.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:00.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:00.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:05.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:05.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:10.856 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:10.856 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:15.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:15.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:20.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:20.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:25.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:25.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:30.856 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:30.856 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:35.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:35.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:40.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:40.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:45.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:45.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:50.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:50.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:18:55.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:18:55.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:19:00.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:19:00.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:19:05.856 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:19:05.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:19:10.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:19:10.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:19:15.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:19:15.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:19:20.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:19:20.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+20:19:25.857 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+20:19:25.857 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:00:44.570 (INFO) Starting tickerplant...
+21:00:44.571 (INFO) Publishing 293 records for table crypto to 0 subscribers.
+21:00:45.548 (INFO) Process rdb at port 5020 attempting to connect to TP.
+21:00:45.548 (INFO) Process 5020 connected to TP at 8.
+21:00:49.571 (INFO) Publishing 2 records for table crypto to 1 subscribers.
+21:00:49.571 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:00:54.571 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+21:00:54.571 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:00:59.571 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+21:00:59.571 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:01:04.571 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+21:01:04.571 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:01:09.571 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+21:01:09.571 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:01:14.571 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+21:01:14.571 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:01:19.571 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+21:01:19.571 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:01:24.571 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+21:01:24.571 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:01:29.570 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+21:01:29.570 (INFO) Sending data for table crypto to process rdb on handle 8.
+21:02:25.932 (INFO) Starting tickerplant...
+21:03:10.934 (INFO) Publishing 337 records for table crypto to 0 subscribers.
+21:03:25.936 (INFO) Publishing 337 records for table crypto to 0 subscribers.
+02:14:39.830 (INFO) Starting tickerplant...
+02:14:39.831 (INFO) Publishing 337 records for table crypto to 0 subscribers.
+02:14:40.734 (INFO) Process rdb at port 5020 attempting to connect to TP.
+02:14:40.734 (INFO) Process 5020 connected to TP at 8.
+02:14:44.831 (INFO) Publishing 2 records for table crypto to 1 subscribers.
+02:14:44.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:14:49.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:14:49.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:14:54.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:14:54.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:14:59.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:14:59.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:04.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:04.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:09.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:09.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:14.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:14.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:19.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:19.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:24.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:24.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:29.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:29.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:34.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:34.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:39.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:39.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:44.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:44.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:49.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:49.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:54.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:54.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:15:59.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:15:59.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:04.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:04.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:09.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:09.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:14.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:14.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:19.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:19.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:24.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:24.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:29.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:29.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:34.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:34.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:39.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:39.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:44.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:44.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:49.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:49.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:54.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:54.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:16:59.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:16:59.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:04.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:04.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:09.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:09.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:14.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:14.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:19.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:19.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:24.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:24.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:29.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:29.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:34.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:34.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:39.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:39.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:44.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:44.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:49.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:49.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:54.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:54.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:17:59.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:17:59.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:04.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:04.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:09.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:09.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:14.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:14.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:19.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:19.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:24.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:24.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:29.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:29.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:34.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:34.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:39.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:39.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:44.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:44.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:49.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:49.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:54.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:54.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:18:59.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:18:59.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:04.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:04.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:09.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:09.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:14.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:14.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:19.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:19.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:24.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:24.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:29.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:29.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:34.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:34.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:39.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:39.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:44.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:44.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:49.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:49.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:54.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:54.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:19:59.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:19:59.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:04.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:04.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:09.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:09.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:14.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:14.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:19.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:19.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:24.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:24.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:29.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:29.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:34.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:34.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:39.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:39.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:44.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:44.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:49.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:49.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:54.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:54.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:20:59.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:20:59.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:04.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:04.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:09.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:09.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:14.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:14.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:19.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:19.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:24.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:24.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:29.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:29.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:34.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:34.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:39.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:39.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:44.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:44.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:49.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:49.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:54.832 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:54.832 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:21:59.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:21:59.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:22:04.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:22:04.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:22:09.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:22:09.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:22:14.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:22:14.831 (INFO) Sending data for table crypto to process rdb on handle 8.
+02:22:19.831 (INFO) Publishing 5 records for table crypto to 1 subscribers.
+02:22:19.831 (INFO) Sending data for table crypto to process rdb on handle 8.
